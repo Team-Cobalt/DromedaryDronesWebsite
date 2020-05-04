@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.dromedarydrones.food"},{"l":"com.dromedarydrones.location"},{"l":"com.dromedarydrones.mainapp"},{"l":"com.dromedarydrones.xml"}]
