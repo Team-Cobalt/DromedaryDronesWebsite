@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+![build](https://github.com/Team-Cobalt/DromedaryDrones/workflows/build%20&%20test/badge.svg?branch=master)
+![GitHub release](https://img.shields.io/github/v/release/Team-Cobalt/DromedaryDrones?include_prereleases)
 
-### Jekyll Themes
+This is the GitHub pages website for Team Cobalt's Dromedary Drones implementation for COMP 350 B, Spring 2020.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Team-Cobalt/TeamCobalt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Eclipse Instructions
+- IntelliJ IDEA Instructions
+- Javadoc
