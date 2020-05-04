@@ -38,11 +38,11 @@ This guide walks through installing and running the Sprint1 branch of the projec
 From your workspace, navigate to **Window > Show View > Other...**<br>
 Within the new **Show View** window, select the **Git Repositories** option within the **Git** dropdown category and click **Open**.
 
-![opening the version control view][eclipse-clone1]
+![opening the version control view][images/eclipse-clone1]
 
 From the new **Git Repositories** view at the bottom left, select the **Clone a Git repository** option.
 
-![opening the clone window][eclipse-clone2]
+![opening the clone window][images/eclipse-clone2]
 
 #### Source Git Repository
 
@@ -57,13 +57,13 @@ User:             your GitHub account username
 Password:         your GitHub account password
 ```
 
-![filling out the clone menu][eclipse-clone3]
+![filling out the clone menu][images/eclipse-clone3]
 
 #### Branch Selection
 
 Make sure `sprint1` is selected and click **Next**.
 
-![selecting the sprint1 branch][eclipse-clone4]
+![selecting the sprint1 branch][images/eclipse-clone4]
 
 #### Local Destination
 
@@ -71,7 +71,7 @@ Specify the directory you wish to save the cloned project to. Make sure `sprint1
 
 And with that, click the **Finish** buton at the bottom to start the clone.
 
-![finishing up the clone][eclipse-clone5]
+![finishing up the clone][images/eclipse-clone5]
 
 
 ### Setting Up Java
@@ -80,7 +80,7 @@ And with that, click the **Finish** buton at the bottom to start the clone.
 
 From your workspace, navigate to **Window > Preferences**.
 
-![opening window preferences][eclipse-java1]
+![opening window preferences][images/eclipse-java1]
 
 #### Importing the JRE
 
@@ -90,25 +90,25 @@ From the new **Preferences** window, navigate to **Java > Installed JREs**.
 
 Select the **Add...** button on the right.
 
-![installed JREs][eclipse-java2]
+![installed JREs][images/eclipse-java2]
 
 #### JRE Type
 
 Make sure `Standard VM` is selected and click **Next**.
 
-![selecting jre type][eclipse-java3]
+![selecting jre type][images/eclipse-java3]
 
 #### JRE Definition
 
 Click the **Directory** button on the right and navigate to where your JDK 13 was installed. And with that, click the **Finish** button at the bottom right.
 
-![filling in jre attributes][eclipse-java4]
+![filling in jre attributes][images/eclipse-java4]
 
 #### Applying Changes
 
 Back in the **Installed JREs** page, make sure your `jdk-13.x.x` JRE is selected and click **Apply and Close** at the bottom right.
 
-![applying jre-13][eclipse-java5]
+![applying jre-13][images/eclipse-java5]
 
 ### Setting Up JavaFX
 
@@ -124,11 +124,11 @@ Pay close attention to the section pertaining to VM arguments!
 The main class is located at `DromedaryDrones > src > mainapp > MainClass.java`.
 Right click on the class and select **Run As > 1 Java Application**.
 
-![path to main class][eclipse-java6]
+![path to main class][images/eclipse-java6]
 
 # Using the Program
 
-![program home page][program-home]
+![program home page][images/program-home]
 
 ## Running the Simulation
 - It's very easy. Just click the **Start Simulation** button on the initial home screen.
@@ -136,13 +136,13 @@ Right click on the class and select **Run As > 1 Java Application**.
 ## Saving the Results
 - After running the simulation, you can export the results to a CSV file via the **Save Results** button at the bottom right.
 
-![program results page][program-results]
+![program results page][images/program-results]
 
 ## Saving the Settings
 1. From the home screen, select **Settings**.
 2. From the initial settings page, select **Save Changes**.
 
-![program settings page][program-settings1]
+![program settings page]images/[program-settings1]
 
 
 
